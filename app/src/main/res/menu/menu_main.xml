@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.hppavillion11.apptoday.MainActivity">
+    <item
+        android:layout_height="match_parent"
+        android:icon="@drawable/share_24dp"
+        android:orderInCategory="101"
+        android:title="Share"
+        app:showAsAction="always" />
+    <item
+        android:orderInCategory="102"
+        android:title="shop" />
+    <item
+        android:orderInCategory="103"
+        android:title="services" />
+</menu>
